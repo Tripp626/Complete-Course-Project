@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Courses</string>
+    <string name="architecture">Architecture</string>
+    <string name="automotive">Automotive</string>
+    <string name="biology">Biology</string>
+    <string name="business">Business</string>
+    <string name="crafts">Crafts</string>
+    <string name="culinary">Culinary</string>
+    <string name="design">Design</string>
+    <string name="drawing">Drawing</string>
+    <string name="ecology">Ecology</string>
+    <string name="engineering">Engineering</string>
+    <string name="fashion">Fashion</string>
+    <string name="film">Film</string>
+    <string name="finance">Finance</string>
+    <string name="gaming">Gaming</string>
+    <string name="geology">Geology</string>
+    <string name="history">History</string>
+    <string name="journalism">Journalism</string>
+    <string name="law">Law</string>
+    <string name="lifestyle">Lifestyle</string>
+    <string name="music">Music</string>
+    <string name="painting">Painting</string>
+    <string name="photography">Photography</string>
+    <string name="physics">Physics</string>
+    <string name="tech">Tech</string>
+
+    <string name="total_credit_units">Total Credit Units:</string>
+    <string name="number_of_students">Number of Students:</string>">
+    <string name="credit_units">Credit Units:</string>
+
+    <string name="submit">Submit</string>
+    <string name="add_course">Add Course</string>
+    <string name="remove_course">Remove Course</string>
+    <string name="disclaimer">Disclaimer: You must select courses worth at least 25 credit units to complete the program.</string>
+
+    <string name="architecture_description">Architecture is the art and science of designing and engineering large structures and buildings. Those who choose to study architecture will have enthusiasm for both the sciences and the arts, and architecture admissions requirements typically consider both artistic ability and mathematical proficiency.</string>
+    <string name="automotive_description">Automotive technology is the study of how self-propelled vehicles move and refers to the creation or design of vehicle technology and the remediation or repairs required. This can involve the engine and other systems, engineering, mechanics and computer technology.</string>
+    <string name="business_description">Business Studies is an interdisciplinary field and is an acronym for Business Administration. It deals with the economic side of companies. Business Studies is concerned with how companies can be economically successful. This includes topics such as finance, marketing, human resources and production.</string>
+    <string name="crafts_description">Craft courses encompass a wide range of educational opportunities designed to teach individuals various crafting techniques and skills. These courses can cover diverse areas such as pottery, woodworking, knitting, jewellery making, and more.</string>
+    <string name="culinary_description">So, put simply, culinary arts refer to the art of preparation, cooking, presentation, and service of food. This may often be in the form of meals in a restaurant, but culinary arts can refer to all professions that involve food service.</string>
+    <string name="design_description">Design is a creative problem-solving process and includes the study of both design practice and design theory. The design process involves problem identification, planning, research, innovation, conceptualisation, experimentation and critical reflection.</string>
+    <string name="drawing_description">Drawing is a course in the field of fine arts. Drawing courses are available at various levels such as undergraduate, postgraduate, diploma, and certification courses at various universities across the country. Drawing courses are available both online as well as offline.</string>
+    <string name="ecology_description">Ecology is the branch of Biology dealing with how organisms interact with their environment, including other organisms. Some of the topics it addresses are biodiversity, biomass, and how different populations of organisms cooperate or compete with one another.</string>
+    <string name="engineering_description">General engineering courses can cover scientific, mathematical, and technical concepts. Many engineering fields require knowledge of physics and mechanics, which may be part of an engineering course curriculum, or may be covered in prerequisite courses.</string>
+    <string name="fashion_description">If you choose to study a general fashion course, you will learn about each stage involved in the fashion design process, from initial concept to the realization of a catwalk or store collection and the creation of an accompanying PR or advertising campaign.</string>
+    <string name="film_description">A Film Making degree provides you with the knowledge, skills and experience to launch a career in the film and media industry. A typical course will involve developing your editing, scriptwriting and production skills.</string>
+    <string name="game_description">Game studies is oftentimes confused with the study of video games, but this is only one area of focus; in reality game studies encompasses all types of gaming, including sports, board games, etc. Before video games, game studies was rooted primarily in anthropology.</string>
+    <string name="geology_description">Geology is the science that studies the Earth\'s physical structure and substances, the history of rocks, the processes that act on them and the most economic way to use the world\'s resources. Geology involves methods and knowledge from biology, chemistry, physics and mathematics.</string>
+    <string name="history_description">A typical History curriculum includes classes in Historical Approaches and Methods, Anti-Semitism and the Holocaust, Major Wars, History of Women, Social Movements, Modern History, Medieval Europe, Politics and Society, Heritage, etc.</string>
+    <string name="journalism_description">A journalism degree provides you with a range of core journalistic skills including researching, investigating, interviewing, reporting and writing, in addition to technical skills such as video, editing, shorthand, audio, content management and web design.</string>
+    <string name="law_description">Studying Law involves understanding what legal theory is, and how to apply it to real-life circumstances. The overarching aim of a governing law is to maintain a just and fair society. Courses teach you several strands of the subject area, such as criminal law, public law and company law.</string>
+    <string name="lifestyle_description">A lifestyle typically reflects an individual\'s attitudes, way of life, values, or world view. Therefore, a lifestyle is a means of forging a sense of self and to create cultural symbols that resonate with personal identity.</string>
+    <string name="music_description">A Music degree could develop your skills in composing, orchestrating, performing, analysing, conducting, studio use, administration and musicology (the historical and cultural study of music). It could engage a broad range of past and present musical forms, and styles from diverse cultures.</string>
+    <string name="painting_description">If you have an eye for detail and enjoy working with your hands, a career in plastering or painting could be just right for you. You will be taught how to prep surfaces, which tools to use correctly and how to paint with the best techniques.</string>
+    <string name="photography_description">This course teaches students with little or no photography background basic elements like camera techniques and digital capture, composition, subject matter and entry-level digital imaging workflow. It also aims to provide students with the competency to understand technical aspects, such as exposure, ISO and shutter.</string>
+    <string name="physics_description">Physics is the study of the natural world, covering the behavior of matter and energy. It explores the fundamental laws and principles that govern the universe, such as motion, energy, force, and gravity. It applies these laws and principles to explain the behavior of objects and systems.</string>
+    <string name="tech_description">A technology intensive course engages students in the use of technologies while at the same time developing an understanding the impact these technologies have on society. A technology-intensive course will incorporate each of the outcomes in a substantive and demonstrable way.</string>
+
+
+</resources>
